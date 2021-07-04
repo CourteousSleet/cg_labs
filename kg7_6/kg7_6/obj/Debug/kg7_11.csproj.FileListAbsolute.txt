@@ -1,0 +1,10 @@
+C:\Users\dis-1\source\repos\kg7_11\kg7_11\bin\Debug\kg7_11.exe.config
+C:\Users\dis-1\source\repos\kg7_11\kg7_11\bin\Debug\kg7_11.exe
+C:\Users\dis-1\source\repos\kg7_11\kg7_11\bin\Debug\kg7_11.pdb
+C:\Users\dis-1\source\repos\kg7_11\kg7_11\obj\Debug\kg7_11.csprojAssemblyReference.cache
+C:\Users\dis-1\source\repos\kg7_11\kg7_11\obj\Debug\kg7_11.Form1.resources
+C:\Users\dis-1\source\repos\kg7_11\kg7_11\obj\Debug\kg7_11.Properties.Resources.resources
+C:\Users\dis-1\source\repos\kg7_11\kg7_11\obj\Debug\kg7_11.csproj.GenerateResource.cache
+C:\Users\dis-1\source\repos\kg7_11\kg7_11\obj\Debug\kg7_11.csproj.CoreCompileInputs.cache
+C:\Users\dis-1\source\repos\kg7_11\kg7_11\obj\Debug\kg7_11.exe
+C:\Users\dis-1\source\repos\kg7_11\kg7_11\obj\Debug\kg7_11.pdb
